@@ -1,4 +1,4 @@
 vmess://ws+tls:7f6ae0da-11d6-a018-820b-76b90722c0fe-0@198.41.193.13:443/?path=/wwtuvws&tlsServerName=crimson.mtdsxdyt.ga#vmess@crimson.mtdsxdyt.ga:443
 vmess://ws+tls:4961d74a-56d8-49b6-b6da-910e6c90e3ac-0@141.101.115.246:443/?path=/mxzqvws&tlsServerName=ojhty10.saneiwi78.cf#
-vmess://ws:4893ed3e-8a5f-48dc-aa1e-bbc2e67a065b-0@20.233.12.144:443/#
-vmess://tcp:c0156451-4efb-45e2-84fc-8d315c4650db-32@51.81.223.15:443/#
+vmess://ws+tls:42a8b3a3-08a4-46f3-827b-d4f5f5053713-0@172.67.28.225:443/?path=/42a8b3a3-08a4-46f3-827b-d4f5f5053713-vmess&tlsServerName=gbsyuq.nhjf429.tk#vmess@gbsyuq.nhjf429.tk:443
+trojan-go://42a8b3a3-08a4-46f3-827b-d4f5f5053713@172.64.108.135:443/?type=ws&sni=gbsyuq.nhjf429.tk&host=gbsyuq.nhjf429.tk&path=%2F42a8b3a3-08a4-46f3-827b-d4f5f5053713-trojan#trojan-go@gbsyuq.nhjf429.tk:443
